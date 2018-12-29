@@ -6,6 +6,8 @@ from qt_gui.plugin import Plugin
 from python_qt_binding import loadUi
 from python_qt_binding.QtWidgets import QWidget
 
+# Jimmy Zhao
+
 class MyPlugin(Plugin):
 
     def __init__(self, context):
