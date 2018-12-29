@@ -1,0 +1,2 @@
+rqt_mypkg
+-DCATKIN_DEVEL_PREFIX=/home/jimmy/catkin4_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jimmy/catkin4_ws/install -G Unix Makefiles
